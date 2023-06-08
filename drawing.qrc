@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/drawing">
+        <file>icon/appleworks.ico</file>
+        <file>icon/color.ico</file>
+        <file>icon/delete.ico</file>
+        <file>icon/Ellipse.ico</file>
+        <file>icon/line.ico</file>
+        <file>icon/pencil.ico</file>
+        <file>icon/rect.ico</file>
+        <file>icon/cancel.ico</file>
+        <file>icon/undo.ico</file>
+    </qresource>
+</RCC>
